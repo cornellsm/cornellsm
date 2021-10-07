@@ -1,4 +1,4 @@
-<title>👋 Hey y'all I'm Sarah 👋</title>
+<h3>👋 Hey y'all I'm Sarah 👋</h3>
 
 
 <ul>
