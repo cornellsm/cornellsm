@@ -1,4 +1,4 @@
-<h1>👋 Hey y'all I'm Sarah 👋</h1>
+<h1 align='center'>👋 Hey y'all I'm Sarah 👋</h1>
 
 
 
